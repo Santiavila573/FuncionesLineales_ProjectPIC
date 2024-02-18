@@ -58,7 +58,7 @@
 <h3>Diagrama de Clases</h3>
 <p>Según todo lo establecido se consiguió generar esté diagrama de clases para mejor comprensión del programa.</p>
 <br>
-/// DIAGRAMA DE CLASES ... //
+<img src = "https://github.com/Santiavila573/FuncionesLineales_ProjectPIC/assets/156937812/d62363e6-af85-477e-8c7b-4065681b462a"/>
 <p>Esto solamente es un breve resumen del funcionamiento del programa.</p>
 <br>
 <p>¡Gracias por su atención!</p>
