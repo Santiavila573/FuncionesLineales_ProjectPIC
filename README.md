@@ -61,7 +61,6 @@
 <img src="https://github.com/Santiavila573/FuncionesLineales_ProjectPIC/assets/156937812/99aece7d-9ace-4a3a-87c0-13dc3d7508b9"/>
 <p>Esto solamente es un breve resumen del funcionamiento del programa.</p>
 <br>
-<br>
 <p>¡Gracias por su atención!</p>
 
 
