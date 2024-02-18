@@ -2,7 +2,7 @@
 <h2>PROYECTO PIC - GRUPO II</h2>
 <h2>DESARROLLO DE SOFTWARE - SEGUNDO NIVEL</h2>
 <h2>Integrantes del Equipo: </h2>
-<p>Santiago Ávila.</p>
+<blocquote><p>Santiago Ávila.</p></blocquote>
 <p>Christian Méndez.</p>
 <p>Elihu Quistial.</p>
 <br>
