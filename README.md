@@ -1,12 +1,13 @@
 <h1><strong>TECNOLÓGICO INTERNACIONAL UNIVERSITARIO</strong></h1>
 <img src="https://github.com/Santiavila573/FuncionesLineales_ProjectPIC/assets/156937812/0917e1b2-aa98-4faf-88f8-f48c9282fe5e" heigth="450px" width="450"/>
-<h2>PROYECTO PIC</h2>
+<div><h2>PROYECTO PIC</h2>
 <h2>GRUPO 2</h2>
 <h2>DESARROLLO DE SOFTWARE - SEGUNDO NIVEL</h2>
 <h2>Integrantes del Equipo: </h2>
 <ul><li><p><strong>Santiago Ávila.</strong></p></li></ul>
 <ul><li><p><strong> Christian Méndez</strong>.</p></li></ul>
 <ul><li><p><strong> Benjamín Quistial.</strong></p></li></ul>
+</div>
 <h2>Descripción de la Aplicación:</h2>
 <ul>
 <li><p>El proyecto "Programa de funciones lineales por Windows Forms" tiene como objetivo principal desarrollar un aplicativo el mismo que pueda resolver sistemas de funciones lineales abordando una carencia identificada en el ámbito educativo.</p></li>
