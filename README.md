@@ -1,12 +1,13 @@
 <h1><strong>TECNOLÓGICO INTERNACIONAL UNIVERSITARIO</strong></h1>
 <img src="https://github.com/Santiavila573/FuncionesLineales_ProjectPIC/assets/156937812/0917e1b2-aa98-4faf-88f8-f48c9282fe5e" heigth="450px" width="450"/>
-<h2>PROYECTO PIC - GRUPO II</h2>
+<h2>PROYECTO PIC</h2>
+<h2>GRUPO 2</h2>
 <h2>DESARROLLO DE SOFTWARE - SEGUNDO NIVEL</h2>
 <h2>Integrantes del Equipo: </h2>
 <ul><li><p><strong>Santiago Ávila.</strong></p></li></ul>
 <ul><li><p><strong> Christian Méndez</strong>.</p></li></ul>
 <ul><li><p><strong> Benjamín Quistial.</strong></p></li></ul>
-<h2>Descripción de la Aplicación: </h2>
+<h2>Descripción de la Aplicación:</h2>
 <ul>
 <li><p>El proyecto "Programa de funciones lineales por Windows Forms" tiene como objetivo principal desarrollar un aplicativo el mismo que pueda resolver sistemas de funciones lineales abordando una carencia identificada en el ámbito educativo y profesional como la falta de aplicaciones y/o tecnología amigable para estudiantes.</p></li>
 </ul>
@@ -14,18 +15,17 @@
 <ul><li><p>Logueo con usuario y contraseña.</p></li></ul>
 <h2>Interfaz Gráfica con Windows Forms</h2>
 <img src="https://github.com/Santiavila573/FuncionesLineales_ProjectPIC/assets/156937812/d53caa65-64bb-4f0c-b510-bdda71eec48e"/>
-<h2>Proyecto por Capas</h2>
+<h2>Proyecto por Capas:</h2>
 <img src="https://github.com/Santiavila573/FuncionesLineales_ProjectPIC/assets/156937812/07ee7144-086d-4246-ae8d-bcf13299ccb9"/> 
 <h3>Capa de Acceso</h3>
 <ul>
   <li>La capa de acceso tiene una clase que se llama DataAccess, indicando que es el acceso a la base de datos de Access. La cuál integra una serie de métodos que manipulan la base de datos como: guardar, obtener, validar, eliminar, a lo que hace referencia un CRUD.</li>
 <h3>Capa Lógica</h3>
-  
 <li>En la capa lógica se encuentra la resolución de la función, solamente tiene un método que es calcular Y.</li>
 <h3>Capa Presentación</h3>
 <li>La capa presentación tiene el formulario back y tiene el formulario front, que es la parte que ve el cliente.</li>
 </ul>
-<h3>Base de Datos</h3>
+<h3>Base de Datos:</h3>
 <ul>
   <li>
 En la base de datos se tienen: 2 tablas, una de usuarios y la otra de funciones que ejecuta de uno a muchos que sería prácticamente el modelo relacional.   
@@ -38,7 +38,7 @@ En la base de datos se tienen: 2 tablas, una de usuarios y la otra de funciones 
   <br>
 <img src="https://github.com/Santiavila573/FuncionesLineales_ProjectPIC/assets/156937812/5a7879ff-cd26-4866-b1b3-6a82bc872393"/>
 <br>
-<h3>Funcionamiento</h3>
+<h3>Funcionamiento:</h3>
 <ul><li>
 <p> Al momento de abrir se visualiza el login, comprueba que se introduzcan las credenciales correctas de no ser así aparecera un mensaje informando que son datos erroneos por el motivo de que se válida la información en la base de datos.</p>
 </li></ul>
@@ -64,10 +64,10 @@ En la base de datos se tienen: 2 tablas, una de usuarios y la otra de funciones 
 <img src="https://github.com/Santiavila573/FuncionesLineales_ProjectPIC/assets/156937812/117c557c-15fd-437f-922e-6d50f87d0d74"/>
 <br>
 <br>
-<h2>DATO ADICIONAL</h2>
+<h3>DATO ADICIONAL:</h3>
 <ul><li><p><strong>Tomar en cuenta que el programa se guía de la fórmula estándar de funciones lineales: Ax+By=C.</strong></p></li></ul>
 <br>
-<h3>Diagrama de Clases</h3>
+<h3>Diagrama de Clases:</h3>
 <ul><li><p>Según todo lo establecido se consiguió generar esté diagrama de clases para mejor comprensión del programa.</p></li></ul>
 <br>
 <img src = "https://github.com/Santiavila573/FuncionesLineales_ProjectPIC/assets/156937812/d62363e6-af85-477e-8c7b-4065681b462a"/>
