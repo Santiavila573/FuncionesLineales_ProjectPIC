@@ -30,7 +30,7 @@
 </ul>
 <h2>📊Observaciones de la aplicación:</h2>
 <div>
-  <img align="left" src="https://github.com/Santiavila573/FuncionesLineales_ProjectPIC/assets/156937812/39946778-735a-40b6-8d61-a9f53c6a354a"/>
+  <img src="https://github.com/Santiavila573/FuncionesLineales_ProjectPIC/assets/156937812/39946778-735a-40b6-8d61-a9f53c6a354a"/>
 </div>
 <br>
 <div>
