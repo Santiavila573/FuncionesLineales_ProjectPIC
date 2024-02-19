@@ -1,4 +1,4 @@
-<h1 align="center"><strong>TECNOLÓGICO INTERNACIONAL UNIVERSITARIO</strong> <img align="center" src="https://github.com/Santiavila573/FuncionesLineales_ProjectPIC/assets/156937812/0917e1b2-aa98-4faf-88f8-f48c9282fe5e" heigth="10%" width="15%"/></h1>
+<h1 align="center"><strong>TECNOLÓGICO INTERNACIONAL UNIVERSITARIO</strong></h1>
 <br>
 <hr>
   <div>
