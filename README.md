@@ -1,4 +1,9 @@
 <h1 align="center"><strong>TECNOLÓGICO INTERNACIONAL UNIVERSITARIO</strong></h1>
+<p align="center">
+  <a href="https://gitcoin.co/">
+    <img src="https://github.com/Santiavila573/FuncionesLineales_ProjectPIC/assets/156937812/ec45b97b-925d-41f5-8532-eb210a9a72aa"
+ alt="Logo" width="30%" height="30%"/>
+  </a>
 <br>
 <hr>
   <div>
@@ -7,23 +12,29 @@
 <div><h2>👨‍💻PROYECTO PIC</h2>
 <h2>GRUPO 2</h2>
 <h2>DESARROLLO DE SOFTWARE - SEGUNDO NIVEL💻</h2>
-<h2>⭐Integrantes del Equipo⭐</h2>
+<h2>Integrantes del Equipo</h2>
+  <div>
+    <img src="https://github.com/Santiavila573/FuncionesLineales_ProjectPIC/assets/156937812/f6c89277-0320-4125-8b55-85e4a5e9caad" width="10%" height="10%"/>
+  </div>
 <ul><li><p><strong>Santiago Ávila.</strong></p></li></ul>
 <ul><li><p><strong> Christian Méndez</strong>.</p></li></ul>
 <ul><li><p><strong> Benjamín Quistial.</strong></p></li></ul>
+  <hr>
 </div>
 <h2>Descripción de la Aplicación🎯</h2>
-<div><img src="https://github.com/Santiavila573/FuncionesLineales_ProjectPIC/assets/156937812/e66dfccd-435b-44ee-94d1-f61129e80a53" heigth="10%" width="10%"/>
+<div>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWZiNHA1YXh2eHl5b2diand2c2tzd3lrbmE0MWgyamNsYWdpM3dmNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RJVw6tIfb2dIwTHFb0/giphy.gif"/>
 </div>
 <ul>
 <li><p>El proyecto "Programa de funciones lineales por Windows Forms" tiene como objetivo principal desarrollar un aplicativo el mismo que pueda resolver sistemas de funciones lineales abordando una carencia identificada en el ámbito educativo.</p></li>
 </ul>
 <h2>📊Observaciones de la aplicación:</h2>
 <div>
-  <img src="https://github.com/Santiavila573/FuncionesLineales_ProjectPIC/assets/156937812/39946778-735a-40b6-8d61-a9f53c6a354a"/>
+  <img align="left" src="https://github.com/Santiavila573/FuncionesLineales_ProjectPIC/assets/156937812/39946778-735a-40b6-8d61-a9f53c6a354a"/>
 </div>
 <br>
 <div>
+  <br>
   <img src="https://github.com/Santiavila573/FuncionesLineales_ProjectPIC/assets/156937812/966aa314-91cf-4278-8e7a-cbaabd42ef27"/>
 </div>
 <br>
@@ -38,7 +49,7 @@
 <br>
 <h3>✅Logueo con usuario y contraseña:</h3>
 <div>
-<img src="https://github.com/Santiavila573/FuncionesLineales_ProjectPIC/assets/156937812/bff10895-9c97-4773-a450-02778c9b6161/">
+<img align="center" src="https://github.com/Santiavila573/FuncionesLineales_ProjectPIC/assets/156937812/bff10895-9c97-4773-a450-02778c9b6161/">
 </div>
 <br>
 <h2>✅Proyecto por Capas:</h2>
@@ -128,10 +139,11 @@
 </p></ul>
 </div>
 <br>
-<h3>Comentarios:</h3>
+<h3>🚀Tomar en cuenta: </h3>
 <ul><li><p>Esto solamente es un breve resumen del funcionamiento del programa.</p></li></ul>
 <br>
-<h3>¡Gracias por su atención!🏆😉👋</h3>
+
+
 
 
 
