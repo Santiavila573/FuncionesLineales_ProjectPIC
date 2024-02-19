@@ -1,5 +1,5 @@
 <h1><strong>TECNOLÓGICO INTERNACIONAL UNIVERSITARIO</strong></h1>
-<img src="https://github.com/Santiavila573/FuncionesLineales_ProjectPIC/assets/156937812/0917e1b2-aa98-4faf-88f8-f48c9282fe5e"/>
+<img src="https://github.com/Santiavila573/FuncionesLineales_ProjectPIC/assets/156937812/0917e1b2-aa98-4faf-88f8-f48c9282fe5e" heigth="450px" width="450"/>
 <h2>PROYECTO PIC - GRUPO II</h2>
 <h2>DESARROLLO DE SOFTWARE - SEGUNDO NIVEL</h2>
 <h2>Integrantes del Equipo: </h2>
@@ -64,7 +64,8 @@ En la base de datos se tienen: 2 tablas, una de usuarios y la otra de funciones 
 <img src="https://github.com/Santiavila573/FuncionesLineales_ProjectPIC/assets/156937812/117c557c-15fd-437f-922e-6d50f87d0d74"/>
 <br>
 <br>
-<p><strong>DATO ADICIONAL: Tomar en cuenta que el programa se guía de la fórmula estándar de funciones lineales: Ax+By=C.</strong></p>
+<h2>DATO ADICIONAL</h2>
+<ul><li><p><strong>Tomar en cuenta que el programa se guía de la fórmula estándar de funciones lineales: Ax+By=C.</strong></p></li></ul>
 <br>
 <h3>Diagrama de Clases</h3>
 <ul><li><p>Según todo lo establecido se consiguió generar esté diagrama de clases para mejor comprensión del programa.</p></li></ul>
@@ -73,7 +74,7 @@ En la base de datos se tienen: 2 tablas, una de usuarios y la otra de funciones 
 <br>
 <ul><li><p>Esto solamente es un breve resumen del funcionamiento del programa.</p></li></ul>
 <br>
-<p>¡Gracias por su atención!</p>
+<h3>¡Gracias por su atención!</h3>
 
 
 
