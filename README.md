@@ -70,9 +70,7 @@
 <div>
 <img src = "https://github.com/Santiavila573/FuncionesLineales_ProjectPIC/assets/156937812/52afeb6c-9515-4174-a286-311af4edf665"/>
 </div>
-  <br>
 <ul><li><p>Aquí va la información de las funciones que se fueron generando en cada ejecución y también los punto que generó.</p></li></ul>
-  <br>
   <div>
 <img src="https://github.com/Santiavila573/FuncionesLineales_ProjectPIC/assets/156937812/5a7879ff-cd26-4866-b1b3-6a82bc872393"/>
   </div>
@@ -84,7 +82,6 @@
 <div>
 <img src=https://github.com/Santiavila573/FuncionesLineales_ProjectPIC/assets/156937812/224b028c-a5e7-4d56-b04d-cf9db5958ff9/>
 </div>
-<br>
 <br>
 <ul><li>
 <p>Si los datos fueron los correctos, se visualizará un mensaje de bienvenido. Y posteriormente se abre la ventana del formulario...</p>
@@ -119,10 +116,8 @@
 <br>
 <h3>👉DATO ADICIONAL:</h3>
 <ul><li><p><strong>Tomar en cuenta que el programa se guía de la fórmula estándar de funciones lineales: Ax+By=C.</strong></p></li></ul>
-<br>
 <h3>💡Diagrama de Clases:</h3>
 <ul><li><p>Según todo lo establecido se consiguió generar esté diagrama de clases para mejor comprensión del programa.</p></li></ul>
-<br>
 <div>
 <img src = "https://github.com/Santiavila573/FuncionesLineales_ProjectPIC/assets/156937812/d62363e6-af85-477e-8c7b-4065681b462a"/>
 </div>
