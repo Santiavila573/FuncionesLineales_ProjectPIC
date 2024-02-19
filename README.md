@@ -12,7 +12,7 @@
 <div><h2>👨‍💻PROYECTO PIC</h2>
 <h2>GRUPO 2</h2>
 <h2>DESARROLLO DE SOFTWARE - SEGUNDO NIVEL💻</h2>
-<h2>Integrantes del Equipo</h2>
+<h2>Integrantes del Equipo:</h2>
   <div>
     <img src="https://github.com/Santiavila573/FuncionesLineales_ProjectPIC/assets/156937812/f6c89277-0320-4125-8b55-85e4a5e9caad" width="10%" height="10%"/>
   </div>
@@ -28,6 +28,7 @@
 <ul>
 <li><p>El proyecto "Programa de funciones lineales por Windows Forms" tiene como objetivo principal desarrollar un aplicativo el mismo que pueda resolver sistemas de funciones lineales abordando una carencia identificada en el ámbito educativo.</p></li>
 </ul>
+<br>
 <h2>📊Observaciones de la aplicación:</h2>
 <div>
   <img src="https://github.com/Santiavila573/FuncionesLineales_ProjectPIC/assets/156937812/39946778-735a-40b6-8d61-a9f53c6a354a"/>
