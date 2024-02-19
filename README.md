@@ -9,7 +9,7 @@
 <ul><li><p><strong> Benjamín Quistial.</strong></p></li></ul>
 <h2>Descripción de la Aplicación:</h2>
 <ul>
-<li><p>El proyecto "Programa de funciones lineales por Windows Forms" tiene como objetivo principal desarrollar un aplicativo el mismo que pueda resolver sistemas de funciones lineales abordando una carencia identificada en el ámbito educativo y profesional como la falta de aplicaciones y/o tecnología amigable para estudiantes.</p></li>
+<li><p>El proyecto "Programa de funciones lineales por Windows Forms" tiene como objetivo principal desarrollar un aplicativo el mismo que pueda resolver sistemas de funciones lineales abordando una carencia identificada en el ámbito educativo.</p></li>
 </ul>
 <img src="https://github.com/Santiavila573/FuncionesLineales_ProjectPIC/assets/156937812/bff10895-9c97-4773-a450-02778c9b6161/">
 <ul><li><p>Logueo con usuario y contraseña.</p></li></ul>
