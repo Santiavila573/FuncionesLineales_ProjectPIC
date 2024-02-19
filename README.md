@@ -11,10 +11,20 @@
 <ul>
 <li><p>El proyecto "Programa de funciones lineales por Windows Forms" tiene como objetivo principal desarrollar un aplicativo el mismo que pueda resolver sistemas de funciones lineales abordando una carencia identificada en el ámbito educativo.</p></li>
 </ul>
-<img src="https://github.com/Santiavila573/FuncionesLineales_ProjectPIC/assets/156937812/bff10895-9c97-4773-a450-02778c9b6161/">
-<ul><li><p>Logueo con usuario y contraseña.</p></li></ul>
-<h2>Interfaz Gráfica con Windows Forms</h2>
+<h2>Observaciones de la aplicación:</h2>
+<p>
+  <img src="https://github.com/Santiavila573/FuncionesLineales_ProjectPIC/assets/156937812/39946778-735a-40b6-8d61-a9f53c6a354a"/>
+</p>
+<p>
+  <img src="https://github.com/Santiavila573/FuncionesLineales_ProjectPIC/assets/156937812/966aa314-91cf-4278-8e7a-cbaabd42ef27"/>
+</p>
+<p>
+  <img src="https://github.com/Santiavila573/FuncionesLineales_ProjectPIC/assets/156937812/1e68b0e1-1efe-424a-ad5d-8859b0adf645"/>
+</p>
+<h3>Interfaz Gráfica con Windows Forms:</h3>
 <img src="https://github.com/Santiavila573/FuncionesLineales_ProjectPIC/assets/156937812/d53caa65-64bb-4f0c-b510-bdda71eec48e"/>
+<h3>Logueo con usuario y contraseña:</h3>
+<img src="https://github.com/Santiavila573/FuncionesLineales_ProjectPIC/assets/156937812/bff10895-9c97-4773-a450-02778c9b6161/">
 <h2>Proyecto por Capas:</h2>
 <img src="https://github.com/Santiavila573/FuncionesLineales_ProjectPIC/assets/156937812/07ee7144-086d-4246-ae8d-bcf13299ccb9"/> 
 <h3>Capa de Acceso</h3>
@@ -71,6 +81,18 @@ En la base de datos se tienen: 2 tablas, una de usuarios y la otra de funciones 
 <ul><li><p>Según todo lo establecido se consiguió generar esté diagrama de clases para mejor comprensión del programa.</p></li></ul>
 <br>
 <img src = "https://github.com/Santiavila573/FuncionesLineales_ProjectPIC/assets/156937812/d62363e6-af85-477e-8c7b-4065681b462a"/>
+<br>
+<div>
+  <h2>Conclusiones:</h2>
+  <ul><p>
+<br>
+    <li>Este proyecto ofrece una oportunidad para desarrollar una aplicación práctica y valiosa que mejore la experiencia de los usuarios al calcular y representar funciones lineales. Se espera que la calculadora de funciones lineales tenga un impacto positivo en la educación y la práctica de las ciencias matemáticas.</li>
+<br>
+<li>La creación de un programa para resolver sistemas de ecuaciones lineales proporcionará una herramienta útil y accesible para estudiantes, profesionales y entusiastas de las matemáticas. Este proyecto no solo facilitará la resolución de problemas matemáticos, sino que también promoverá la comprensión de conceptos clave a través de soluciones detalladas y representaciones gráficas.</li>
+<br>
+<li>La comprensión a través de esta herramienta para calcular funciones lineales, proporciona al usuario una guía importante para tomar decisiones en lo relacionado a los problemas de la vida real. La relación directa que existe entre las matemáticas con los problemas diarios del mundo laboral o educativo, nos indican la importancia de manejar estos conceptos para optimizar recursos en el caso de las empresas, y optimizar tiempo consolidar el conocimiento en la educación.</li> 
+</p></ul>
+</div>
 <br>
 <ul><li><p>Esto solamente es un breve resumen del funcionamiento del programa.</p></li></ul>
 <br>
